@@ -1,0 +1,21 @@
+body{
+    padding: 0;
+    margin: 0;
+    color:#ffffff;
+    background: #000000 top/cover url("redmoon.jpg") no-repeat ;
+    text-align: center;
+}
+#maList{
+    text-decoration: underline;
+}
+#titre{
+    text-decoration: underline;
+    color: rgb(0, 245, 233);
+    text-decoration-color: white;
+}
+.lien{
+    text-decoration: none;
+}
+#lien{
+    color: #ffffff;
+}
